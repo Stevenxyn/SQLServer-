@@ -1,2 +1,0 @@
-# sqlServer
-text upload proyect
